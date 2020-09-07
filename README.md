@@ -10,4 +10,4 @@ https://milano-patel.github.io/the-maze
 Created while Learning the Javascript from Colt Steel and Stephen Grider Udemy Course: https://www.udemy.com/course/javascript-beginners-complete-tutorial/
 
 ## Screenshot
-![UI-Screenshot](images/maze-ui.png)
+![UI-Screenshot](images/maze_ui.png)
